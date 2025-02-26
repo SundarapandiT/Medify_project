@@ -22,7 +22,7 @@ This project is a simple weather application that fetches and displays weather d
 2. Enter a city name and click the **Get Weather** button.
 3. Ensure the page displays the temperature, humidity, and weather description.
 4. **Error Handling:**
-   - Try entering an invalid city name (e.g., "abcd") to see if an error message appears.
+   - Try entering an invalid city name (e.g., "Kovilpatti") to see if an error message appears.
    - Disconnect from the internet and test how the app handles network errors.
 
 ## Enhancements & Future Improvements
