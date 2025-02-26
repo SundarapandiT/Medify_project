@@ -30,29 +30,10 @@ This project is a simple weather application that fetches and displays weather d
 - Add icons representing different weather conditions.
 - Improve UI/UX with animations and better layout.
 - Enable location-based weather retrieval using the Geolocation API.
-- Show additional data like wind speed and air pressure.
+- Show additional data like air pressure.
 
 ## Conclusion
 
 This project successfully fetches and displays weather data using the OpenWeatherMap API. The implementation follows best practices for clean code, error handling, and responsive design.
 
 ---
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd weather-app
-   ```
-3. Open `index.html` in a web browser.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
