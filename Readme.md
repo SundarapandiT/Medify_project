@@ -5,7 +5,7 @@
 This project is a simple weather application that fetches and displays weather data for a user-specified city using the OpenWeatherMap API. The application consists of three separate files:
 
 - **index.html** - HTML structure
-- **style.css** - Styling for UI/UX
+- **index.css** - Styling for UI/UX
 - **script.js** - JavaScript logic for fetching and displaying weather data
 
 ## API Used
